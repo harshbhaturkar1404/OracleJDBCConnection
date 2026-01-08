@@ -2,11 +2,11 @@ Advanced Java Assignments
 This repository contains my solutions for the Advanced Java assignments.
 
 📂 Project Structure
-Task 1: Task1 - Database Connectivity Setup.
-Task 2: Task2 - Fetch and Display Data.
-Task 3: Task3 - Insert Student Record.
-Task 4: Task4 - Update Student Marks.
-Task 5: Task5 - Delete Student Record.
+Task1: Task1 - Database Connectivity Setup.
+Task2: Task2 - Fetch and Display Data.
+Task3: Task3 - Insert Student Record.
+Task4: Task4 - Update Student Marks.
+Task5: Task5 - Delete Student Record.
 
 ✅ Task 1: Connect to Database
 Objective: Establish a connection between Java and MySQL using JDBC.
